@@ -4,6 +4,7 @@
   font-optical-sizing: auto;
   font-weight: 400px;
   font-style: normal;
-  background-color: rgb(245, 247, 248);
+  background-color: rgb(255, 255, 255);
   z-index: 2;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.081);
 }
